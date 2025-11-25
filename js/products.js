@@ -69,12 +69,13 @@ const products = [
         name: "iPhone 13 Pro Max 256GB",
         images: [
             "images/P006/image1.jpg",
-            "images/P006/image2.jpg"
+            "images/P006/image2.jpg",
+            "images/P006/image3.jpg"
         ],
         thumbnail: "images/P006/image1.jpg",
         prices: {
-            kigali: "816,000 RF",
-            muhanga: "867,000 RF"
+            kigali: "816,666 RF",
+            muhanga: "867,777 RF"
         }
     },
     {
