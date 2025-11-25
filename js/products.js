@@ -115,5 +115,17 @@ const products = [
             kigali: "553,000 RF",
             muhanga: "673,400 RF"
         }
+    },
+    {
+        id: "P010",
+        name: "IPHONE 17 PRO",
+        images: [
+            "images/P010/image1.jpg"
+        ],
+        thumbnail: "images/P010/image1.jpg",
+        prices: {
+            kigali: "80000 RF",
+            muhanga: "90000 RF"
+        }
     }
 ];
