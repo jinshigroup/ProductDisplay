@@ -124,7 +124,7 @@ const products = [
         ],
         thumbnail: "images/P010/1.jpg",
         prices: {
-            kigali: "80000 RF",
+            CHINA: "80000 RF",
             muhanga: "90000 RF"
         }
     }
